@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-import-demo",
+  "version": "1.0.0",
+  "description": "a babel plugin demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -u"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "gyh9457",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}

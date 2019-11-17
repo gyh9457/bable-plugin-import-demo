@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`plugin test 1`] = `
+"\\"use strict\\";
+
+var _A = _interopRequireDefault(require(\\"foo/lib/A\\"));
+
+require(\\"foo/lib/A/style.css\\");
+
+var _B = _interopRequireDefault(require(\\"foo/lib/B\\"));
+
+require(\\"foo/lib/B/style.css\\");
+
+var _C = _interopRequireDefault(require(\\"foo/lib/C\\"));
+
+require(\\"foo/lib/C/style.css\\");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }"
+`;
